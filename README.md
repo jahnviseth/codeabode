@@ -26,7 +26,7 @@ If judges want to, they can view the database in the browser(use firefox for pro
 https://attendance-codeabode-default-rtdb.firebaseio.com/.json
 
 TECH STACK USED:
-PYTHON 3.9, FIREBASE REALTIME DATABASE, OPENCV.
+PYTHON 3.9, FIREBASE REALTIME DATABASE, OPENCV, FACIAL-RECOGNITION.
 
 VIDEO OF OUR PROJECT:
 https://drive.google.com/file/d/1Pt0YhJkeh-52Xe-TDqE1d96jeAEU8ERW/view?usp=sharing
