@@ -47,13 +47,13 @@ GitHub: https://github.com/divyanshkm
 LinkedIn: https://www.linkedin.com/in/divyanshkm/
 Resume: [divyanshresume.pdf](https://github.com/jahnviseth/codeabode/files/6135493/divyanshresume.pdf)
 
-Member4: VIRTI MEHTA
-GitHub:
-LinkedIn:
-Resume:
+Member4: VIRTI NIKHILBHAI MEHTA
+GitHub: http://github.com/m-virti
+LinkedIn: https://www.linkedin.com/in/virti-mehta-325716202
+Resume: [virtiresume.pdf](https://github.com/jahnviseth/codeabode/files/6135926/virtiresume.pdf)
 
 INSTRUCTIONS:-
-run run.cmd file first to install necessary libraries. If there is an issue with it then you may open run.cmd file in notepad and then execute statements one by one on cmd manually.
+Run run.cmd file first to install necessary libraries. If there is an issue with it then you may open run.cmd file in notepad and then execute statements one by one on cmd manually.
 
 You can run FACE_RECOGNITION.py for face identification and attendance taking. Even try to add your own face pic in the faces folder and try to get your face identified. You can close the program directly by just clicking on red X on the top right window of cmd or Alt+F4.
 
